@@ -1,7 +1,7 @@
-# Email Security-MachineLearning
+# Email Security Machine Learning
 Use machine learning to classify email as spam or ham. 
 
-# Email Classification for JPMorgan Security
+# Email Classification for Bank Security
 
 ## Overview
 This project aims to develop a machine learning model for email classification to enhance security for JPMorgan's banking operations. The model distinguishes between spam and ham (non-spam) emails, aiding in safeguarding against potential threats.
