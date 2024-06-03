@@ -33,7 +33,7 @@ To use this project, follow these steps:
 This project demonstrates the development of a machine learning model for email classification, specifically tailored to enhance security for JPMorgan's banking operations. By accurately distinguishing between spam and ham emails, the model contributes to mitigating potential security threats.
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
+- [Jonny Jackson](https://github.com/jonnyvpc)
 
 Feel free to contribute to this project by submitting pull requests or opening issues for any improvements or suggestions!
 
